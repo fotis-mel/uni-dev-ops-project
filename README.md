@@ -1,4 +1,4 @@
-# uni-dev-ops-project - Garage
+# uni-dev-ops-project | Garage
 University project that focuses on software development following the ICONIX development methodology.
 Specifically, the project is an auto-repair shop management system aptly named "Garage", and provides
 each user the appropriate functionality, depending on their nature, in regards to the "Garage".
