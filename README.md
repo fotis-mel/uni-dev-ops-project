@@ -6,5 +6,5 @@ each user the appropriate functionality, depending on their nature, in regards t
 This is a joint development effort by all collaborators. Note that the primary objective is not to produce
 a final fully functioning version of the software, but to demonstrate through the development process the
 continuity between the previous development steps, as described by the ICONIX methodology, namely the
-use-case-descriptions, robutstness-analysis & sequence-analysis, that inform the evolution of the starting
+use-case-descriptions, robustness-analysis & sequence-analysis, that inform the evolution of the starting
 domain-model into the more formal and developer-friendly class-diagram.
