@@ -1,9 +1,0 @@
-role,id,password,full_name
-customer,1,1234,Nikos Papadopoulos
-mechanic,2,abcd,Giorgos Nikas
-admin,3,pass123,Maria Ioannou
-customer,4,1111,Eleni Kostaki
-mechanic,5,2222,Petros Markos
-admin,6,9999,Katerina Dimitriou
-customer,7,5555,Andreas Georgiou
-mechanic,8,9999,Meli Kostas
